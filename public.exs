@@ -1,5 +1,5 @@
 defmodule Public do
   @moduledoc """
-  Hello
+  A test comment.
   """
 end
